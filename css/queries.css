@@ -41,6 +41,14 @@
 }
 
 @media (max-width: 767.98px) { 
+        .navbar-collapse.collapse.show {
+position: absolute;
+z-index: 100;
+top: 70px;
+background: black;
+display: block;
+width: 100%;
+}
        .navbar   { 
     height:86px;
     }
