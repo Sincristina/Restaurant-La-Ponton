@@ -32,7 +32,12 @@
     font-size:1.3rem;
     line-height:1.4;
     }
-    
+      .containerfluid-text {
+        height:350px;
+    }
+       .details-paragraph {
+        font-size:1.2rem;
+    }  
 }
 
 @media (max-width: 767.98px) { 
@@ -66,5 +71,11 @@
     }
     .footer-details{
         font-size:1.2rem; 
+    }
+            .containerfluid-text {
+        height:350px;
+    }
+    .details-paragraph {
+        font-size:1.2rem;
     }
      }
