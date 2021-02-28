@@ -1,0 +1,70 @@
+
+@media (max-width: 991.98px) { 
+    .navbar   { 
+    height:86px;
+    }
+.features-paragraph { 
+    font-size:1.5rem;
+    }
+        h4{
+    font-size:2rem;
+    }
+    hr{
+        width:45%;
+        color:black;
+    }
+    .features-blog2 {
+        margin-top:200px;
+        margin-left:50px;
+    }
+  
+    .map-images  {
+     top:620px;
+     }
+    .finish {
+        top:1050px;
+    }
+    .footer-details{
+        font-size:1.2rem;
+     
+    }
+    .blog-sushi { 
+    font-size:1.3rem;
+    line-height:1.4;
+    }
+    
+}
+
+@media (max-width: 767.98px) { 
+       .navbar   { 
+    height:86px;
+    }
+.features-paragraph { 
+    font-size:1.5rem;
+    }
+    h4{
+    font-size:2rem;
+    }
+    hr{
+        width:45%;
+        color:black;
+    }
+    .features-blog2 {
+        margin-top:200px;
+        margin-left:50px;
+    }
+    .btn-blog {
+    position: absolute;
+    bottom: 20px;
+    left:280px;
+     }
+    .map-images  {
+     top:550px;
+     }
+    .finish {
+        top:1050px;
+    }
+    .footer-details{
+        font-size:1.2rem; 
+    }
+     }
